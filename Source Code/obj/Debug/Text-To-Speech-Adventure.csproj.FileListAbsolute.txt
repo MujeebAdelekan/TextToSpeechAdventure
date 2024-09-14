@@ -1,0 +1,7 @@
+C:\Users\asafo\OneDrive\Desktop\Courses\Senior Project\Text-To-Speech-Adventure\Text-To-Speech-Adventure\bin\Debug\Text-To-Speech-Adventure.exe.config
+C:\Users\asafo\OneDrive\Desktop\Courses\Senior Project\Text-To-Speech-Adventure\Text-To-Speech-Adventure\bin\Debug\Text-To-Speech-Adventure.exe
+C:\Users\asafo\OneDrive\Desktop\Courses\Senior Project\Text-To-Speech-Adventure\Text-To-Speech-Adventure\bin\Debug\Text-To-Speech-Adventure.pdb
+C:\Users\asafo\OneDrive\Desktop\Courses\Senior Project\Text-To-Speech-Adventure\Text-To-Speech-Adventure\obj\Debug\Text-To-Speech-Adventure.csproj.CoreCompileInputs.cache
+C:\Users\asafo\OneDrive\Desktop\Courses\Senior Project\Text-To-Speech-Adventure\Text-To-Speech-Adventure\obj\Debug\Text-To-Speech-Adventure.exe
+C:\Users\asafo\OneDrive\Desktop\Courses\Senior Project\Text-To-Speech-Adventure\Text-To-Speech-Adventure\obj\Debug\Text-To-Speech-Adventure.pdb
+C:\Users\asafo\OneDrive\Desktop\Courses\Senior Project\Text-To-Speech-Adventure\Text-To-Speech-Adventure\obj\Debug\Text-To-Speech-Adventure.csproj.AssemblyReference.cache
